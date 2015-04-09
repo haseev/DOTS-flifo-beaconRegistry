@@ -89,7 +89,7 @@ The methods for using the Beacon Registry are included in the /SITA_DOTS_SDK fol
 
 - Include the /SITA_DOTS_SDK folder in your project. (SITA_DOTS_SDK.h & libSITA_DOTS_SDK.a)
 - Link the library (libBeaconRegistrySDK.a) in your project:
-![alt tag](https://github.com/sitalab/beaconRegistry/blob/master/SITA_DOTS_SDK.png)
+![alt tag](https://github.com/sitalab/DOTS-flifo-beaconRegistry/blob/master/SITA_DOTS_SDK.png)
 
 The library has multiple methods you can use all included in SITA_DOTS_SDK.h:
 
