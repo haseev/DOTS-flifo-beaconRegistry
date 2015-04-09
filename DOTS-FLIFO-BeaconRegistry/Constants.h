@@ -14,8 +14,7 @@
 #define Timeout 15
 
 //Passenger Flight INFO
-//#define AirportCode @"YOUR_AIRPORT_CODE"  //IATA Three letter code like DFW or JFK
-#define AirportCode @"ITXI"
+#define AirportCode @"YOUR_AIRPORT_CODE"  //IATA Three letter code like DFW or JFK
 #define Flight   @"XS0001"
 #define FlightDate   @"2015-04-09"
 #define PassengerName   @"Bilal Itani"
