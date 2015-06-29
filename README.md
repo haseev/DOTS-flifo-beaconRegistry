@@ -155,3 +155,42 @@ License
 =======
 
 This project is licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+
+
+1800 = 07 08
+16 = 108
+Period: 3 digit hexa
+Modes: 12
+
+
+
+11F8D010-991F-4FDD-868C-CDD6EE671BC4
+
+
+A6702217-BDC4-45F4-8198-9B7A6E979AB3
+
+
+
+
+
+iOS Project Startup
+
+Check out the iOS iTravel 1 project from: https://xp-dev.com/svn/iTraveliPhone
+Create a new iOS 8 project with tabbed navigation, core data enabled, and add the items: “Trips / Check in”, “Book A Flight”, “Check Flight Status”, “Deals And Offers”, “More"
+
+In the old project there are different targets with different splash screens and icons located in “Resources/zz” “Resources/mh”, create the required iOS 8 splash images and icons from them. Required icons/splash sizes are here: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1 
+
+The “More” tab should present a modal view with more options to select from, “Schedule”, “Track My Bags”, “Airline Sales Office”, “Call Centers”, “Legal Terms”, “Terms & Conditions”, “Privacy Policy”, “Quick Tips”, “About This App”
+
+Use the same Constants.h file for now.
+
+Pull the config API logic from old repository and integrate in new project, we’ll have to use NSURLSessions instead of ASIHTTPRequest.
+
+Create the required schema to store the config API response, at application start we should call the config API with config last update value stored and only if there is a response we should replace the old response with new one.
+
+New project should be committed to https://xp-dev.com/svn/iTravelios8
+
+
+
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3D1F3DEF-B198-40CA-8C1E-E9FFB95BBC2C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DOTS-FLIFO-BeaconRegistry</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6583A802B326D4A4AB2A159F76B10E8DC16D2083</key>
+		<string>https://github.com/sitalab/DOTS-flifo-beaconRegistry.git</string>
+		<key>BBFC819680C953AF9F2F1987E5094B7313807984</key>
+		<string>https://github.com/sitalab/beaconRegistry.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DOTS-FLIFO-BeaconRegistry.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6583A802B326D4A4AB2A159F76B10E8DC16D2083</key>
+		<string>../..</string>
+		<key>BBFC819680C953AF9F2F1987E5094B7313807984</key>
+		<string>../../../beaconRegistry</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sitalab/DOTS-flifo-beaconRegistry.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6583A802B326D4A4AB2A159F76B10E8DC16D2083</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BBFC819680C953AF9F2F1987E5094B7313807984</string>
+			<key>IDESourceControlWCCName</key>
+			<string>beaconRegistry</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6583A802B326D4A4AB2A159F76B10E8DC16D2083</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DOTS-flifo-beaconRegistry</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -16,7 +16,7 @@
 //Passenger Flight INFO
 #define AirportCode @"YOUR_AIRPORT_CODE"  //IATA Three letter code like DFW or JFK
 #define Flight   @"XS0001"
-#define FlightDate   @"2015-04-09"
+#define FlightDate   @"2015-06-29" //"YYYY-MM-dd"
 #define PassengerName   @"Bilal Itani"
 
 
